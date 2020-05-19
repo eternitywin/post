@@ -1,4 +1,4 @@
 BASE_URL = "http://httpbin.org/"
 IP_URL = "/ip"
-LOCAL_IP = "223.85.219.54"
+LOCAL_IP = "117.174.132.108"
 POST_TEST_URL = "/post"
